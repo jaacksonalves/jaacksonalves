@@ -1,4 +1,13 @@
-### Hi there 👋
+# Sobre mim 
+Meu nome é Jackson, tenho 30 anos, moro em Uberlândia-MG e tenho 2 filhos.
+Sou desenvolvedor Back-end Java/Spring e tecnologias adjacentes xD
+
+## Sobre minha experiência profissional:
+- Já trabalhei como backend de um software de gestão de estoque.
+- Fiz um bootcamp de aceleração.
+- Trabalhei num projeto de um grande Banco(Open Finance PJ)
+- Trabalhei por muito tempo no setor educacional, como backend do sistema de estudos da empresa.
+- Tenho características de programar voltado as boas práticas de POO focando muito em qualidade de código, além de prezar MUITO por testes.
 
 <!--
 **jaacksonalves/jaacksonalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
